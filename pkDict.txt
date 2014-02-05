@@ -1,0 +1,8 @@
+sf1_2010,logrecno
+acs_2006_2010,logrecno
+acs_2006_2010_not_tracts_bgs,logrecno
+acs_2007_2011,logrecno
+acs_2007_2011_not_tracts_bgs,logrecno
+acs2010_1year,logrecno
+acs_2011,logrecno
+hmda,GEOID10

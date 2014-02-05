@@ -1,0 +1,16 @@
+lynn_dtown,geomatract10
+mapc,geomacousub10
+CTPS,geomacousub10
+I495,geomacousub10
+CommType,geomacousub10
+SubRegion,geomacousub10
+RPA,geomacousub10
+County,geomacousub10
+BostonGlobe,geomacousub10
+PatriotLedger,geomacousub10
+MF,geomacousub10
+dorchesterBay,geomatract10
+BostonNhoods,geomatract10
+PlanningDistricts,geomatract10
+SalemPointNhood,geomatract10
+hia_roxbury,geomatract10

@@ -1,0 +1,16 @@
+Lynn Downtown,lynn_dtown
+MAPC Region,mapc
+Central Transportation Planning Staff,CTPS
+I-495,I495
+Community Type,CommType
+MAPC Subregion,SubRegion
+MA Regional Planning Authorities,RPA
+Counties,County
+Boston Globe,BostonGlobe
+Patriot Ledger,PatriotLedger
+MetroFuture,MF
+Dorchester Bay EDC,dorchesterBay
+Boston Neighborhoods,BostonNhoods
+Boston Planning Districts,PlanningDistricts
+Salem Point Neighborhood,SalemPointNhood
+Health Impact Assessment Roxbury,hia_roxbury
